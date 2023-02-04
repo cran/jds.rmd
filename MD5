@@ -1,7 +1,7 @@
-c7cc75d513222e1b833571a58d0e9bc9 *DESCRIPTION
+818f93218c77304246893a95d79ba87b *DESCRIPTION
 32d2b3f6512738945912afdbcfbce627 *NAMESPACE
-189e2c57ccadb98c56790dad17738342 *NEWS.md
-c834dbae8b3debac98d68f5c7c8ee407 *R/draft.R
+ec66a7a55fc85c870d0c89c1f4797c8e *NEWS.md
+a8c260090a01d3f442b93dac366c2959 *R/draft.R
 52bbe3ef8775934a124a918876026076 *R/pdf_article.R
 ef896b4e1e194a022e7a8db13c5bd59a *R/pkg-doc.R
 f0c4b6174fbab6000de587eff334b7be *R/utils.R
@@ -10,9 +10,9 @@ ac7f222207575fccf462fc2f2198a28f *R/zzz.R
 d458a96493cea2bdf6f73470ff9036aa *inst/examples/pdf_article.R
 564bed2a9188170965d51d990623557e *inst/rmarkdown/templates/pdf_article/resources/jds.bst
 3d66801156c033e0edfdcb452420b4f7 *inst/rmarkdown/templates/pdf_article/resources/jds.cls
-61d709d55311df3c3d1fb91c2328cebe *inst/rmarkdown/templates/pdf_article/resources/jdsart.cls
+43c3be8123af2ea5c9a29d32511f9f16 *inst/rmarkdown/templates/pdf_article/resources/jdsart.cls
 896ff7c71f86858638beee56f9ed39e3 *inst/rmarkdown/templates/pdf_article/resources/template-jds.cls.tex
-d2a70c05bcaf16293da41bdd915b4668 *inst/rmarkdown/templates/pdf_article/resources/template-jdsart.cls.tex
+53ed9ffbd0855a6372892b07d20f4da6 *inst/rmarkdown/templates/pdf_article/resources/template-jdsart.cls.tex
 db440ccf50e27d659db19e126f03adde *inst/rmarkdown/templates/pdf_article/skeleton-jds.cls/jds-sample.bib
 12ae9be9ca417c956dfeb2719ec90298 *inst/rmarkdown/templates/pdf_article/skeleton-jds.cls/skeleton.Rmd
 db440ccf50e27d659db19e126f03adde *inst/rmarkdown/templates/pdf_article/skeleton/jdsart-sample.bib
